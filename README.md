@@ -1,1 +1,1 @@
-git@github.com:Bruno4ka/ono-tebe-nado-fd.git
+https://github.com/Bruno4ka/ono-tebe-nado-fd
